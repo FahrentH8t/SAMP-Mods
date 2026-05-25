@@ -9,7 +9,9 @@ HudZeroFix.asi | This .asi plugin removes the extra zeros from index money.
 _noDEP.asi | Some mods, such as Tuning Mod, Real Traffic, Fix, Steering (Active Dashboard) and others, have a problem: Due to certain features of these mods, Windows eventually blocks them using the so-called DEP (Data Execution Prevention). This ASI plugin solves this problem by disabling DEP when starting the game.
 
 RunDLL32.exe Fix + GameUX.dll Fix | Fixes game not opening.
+
 --------------------------
+
 CLEO Redux v1.4.3
 
 CLEO+ v1.2.0
