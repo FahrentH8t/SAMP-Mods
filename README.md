@@ -11,11 +11,19 @@ _noDEP.asi | Some mods, such as Tuning Mod, Real Traffic, Fix, Steering (Active 
 RunDLL32.exe Fix + GameUX.dll Fix | Fixes game not opening.
 --------------------------
 CLEO Redux v1.4.3
+
 CLEO+ v1.2.0
+
 Silent's ASI Loader v1.3
+
 SAMPFUNCS v5.4.1 Final
+
 III.VC.SA.WindowedMode v2.1
+
 SilentPatch v1.1 Build 33
+
 GFXHack v1.12
+
 ModLoader v0.3.9
+
 CrashInfo v1.2.1
