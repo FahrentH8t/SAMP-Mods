@@ -1,31 +1,56 @@
-GTA SanAndreas SAMP Files for Online Gameplay
+# 🎮 GTA San Andreas SA:MP Essential Files
 
-SkyGrad.asi | A small plugin that applies a smoothing effect to the gradient of the sky, thereby correcting unpleasant color lines in the sky.
+A collection of useful plugins, fixes, and enhancements for **GTA San Andreas Multiplayer (SA:MP)** to improve stability, compatibility, and overall gameplay experience.
 
-GFXHack v1.12 | This ASI plugin improves rendering of small objects, as well as necessary for proper operation of chrome plated parts in new models of transport! / Working in SA:MP.
+## 🛠️ Included Fixes & Plugins
 
-HudZeroFix.asi | This .asi plugin removes the extra zeros from index money.
+### 🌅 SkyGrad.asi
 
-_noDEP.asi | Some mods, such as Tuning Mod, Real Traffic, Fix, Steering (Active Dashboard) and others, have a problem: Due to certain features of these mods, Windows eventually blocks them using the so-called DEP (Data Execution Prevention). This ASI plugin solves this problem by disabling DEP when starting the game.
+Applies a smoothing effect to sky gradients, eliminating visible color banding and improving the overall appearance of the in-game sky.
 
-RunDLL32.exe Fix + GameUX.dll Fix | Fixes game not opening.
+### 🎨 GFXHack v1.12
 
---------------------------
+Enhances the rendering of small objects and ensures proper chrome reflections on newer vehicle models. Fully compatible with **SA:MP**.
 
-CLEO Redux v1.4.3
+### 💰 HudZeroFix.asi
 
-CLEO+ v1.2.0
+Removes unnecessary trailing zeros from the money display in the HUD for a cleaner interface.
 
-Silent's ASI Loader v1.3
+### 🛡️ _noDEP.asi
 
-SAMPFUNCS v5.4.1 Final
+Some modifications such as **Tuning Mod**, **Real Traffic**, **Steering (Active Dashboard)**, and others may be blocked by Windows **DEP (Data Execution Prevention)**. This plugin automatically disables DEP for the game, preventing related crashes and compatibility issues.
 
-III.VC.SA.WindowedMode v2.1
+### 🚀 RunDLL32.exe Fix + GameUX.dll Fix
 
-SilentPatch v1.1 Build 33
+Fixes issues that may prevent the game from launching properly on modern Windows systems.
 
-GFXHack v1.12
+---
 
-ModLoader v0.3.9
+## 📦 Included Components
 
-CrashInfo v1.2.1
+* 🔧 **CLEO Redux** v1.4.3
+* ⚡ **CLEO+** v1.2.0
+* 🔌 **Silent's ASI Loader** v1.3
+* 🧩 **SAMPFUNCS** v5.4.1 Final
+* 🪟 **III.VC.SA.WindowedMode** v2.1
+* 🛠️ **SilentPatch** v1.1 Build 33
+* 🎨 **GFXHack** v1.12
+* 📂 **ModLoader** v0.3.9
+* 📋 **CrashInfo** v1.2.1
+
+---
+
+## ✨ Features
+
+* ✅ Improved game stability and compatibility
+* 🎮 Enhanced SA:MP gameplay experience
+* 🎨 Better graphics and rendering fixes
+* 🔧 Increased compatibility with mods
+* 🚫 Reduced crashes and startup issues
+* 💎 Various quality-of-life improvements
+
+---
+
+## ⚠️ Note
+
+> These files are intended for **GTA San Andreas Multiplayer (SA:MP)** and may not be compatible with all single-player modifications.
