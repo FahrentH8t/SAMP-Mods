@@ -20,7 +20,7 @@ Removes unnecessary trailing zeros from the money display in the HUD for a clean
 
 Some modifications such as **Tuning Mod**, **Real Traffic**, **Steering (Active Dashboard)**, and others may be blocked by Windows **DEP (Data Execution Prevention)**. This plugin automatically disables DEP for the game, preventing related crashes and compatibility issues.
 
-### 🚀 RunDLL32.exe Fix + GameUX.dll Fix
+### 🚀 RunDLL32.exe Fix
 
 Fixes issues that may prevent the game from launching properly on modern Windows systems.
 
