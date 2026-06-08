@@ -12,22 +12,26 @@ Improves frame pacing and fixes issues caused by high FPS, resulting in smoother
 
 Applies a smoothing effect to sky gradients, eliminating visible color banding and improving the overall appearance of the in-game sky.
 
-### 🎨 GFXHack v1.12
+### 🎨 GFXHack v1.12 | [GameModding](https://gamemodding.com/en/gta-san-andreas/others/78094-gfxhack-112.html)
 
 Enhances the rendering of small objects and ensures proper chrome reflections on newer vehicle models. Fully compatible with **SA:MP**.
 
-### 🛡️ _noDEP.asi
+### 🛡️ _noDEP.asi | [MixMods](https://www.mixmods.com.br/2015/03/nodep-desativar-dep/) / [GameModding](https://gamemodding.com/en/gta-san-andreas/others/87838-nodep-otklyuchit-dep.html)
 
 Some modifications such as **Tuning Mod**, **Real Traffic**, **Steering (Active Dashboard)**, and others may be blocked by Windows **DEP (Data Execution Prevention)**. This plugin automatically disables DEP for the game, preventing related crashes and compatibility issues.
 
-### 🚀 RunDLL32.exe Fix
+### 🚀 RunDLL32.exe Fix | [MixMods](https://www.mixmods.com.br/2020/10/rundll32-exe-fix-gameux-dll-fix-corrigir-jogo-nao-abrindo/)
 
 Fixes issues that may prevent the game from launching properly on modern Windows systems.
 
-### SprintHook.asi
+### 🏃‍♂️ SprintHook.asi | [GameModding](https://gamemodding.com/en/gta-san-andreas/others/87173-sprint-hook.html)
 
 Have you noticed that if you hit the space bar many times, you run faster?
 This ASI plugin helps you run, or more precisely, it "hammers on the space bar" for you, you only need to hold down the space bar and you will run faster.
+
+### Full Stream Radar | [MixMods](https://www.mixmods.com.br/2015/01/full-stream-radar-fix-radar-sumindo/)
+
+This mod fixes the bug where the radar takes a long time to load when moving very fast, flying, etc. This is a problem that occurs mainly in HD radar map mods, where it increases disk usage to load textures.
 
 ---
 
