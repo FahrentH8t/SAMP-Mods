@@ -20,7 +20,7 @@ Enhances the rendering of small objects and ensures proper chrome reflections on
 
 Some modifications such as **Tuning Mod**, **Real Traffic**, **Steering (Active Dashboard)**, and others may be blocked by Windows **DEP (Data Execution Prevention)**. This plugin automatically disables DEP for the game, preventing related crashes and compatibility issues.
 
-### 🚀 RunDLL32.exe Fix
+### 🚀 RunDLL32.exe Fix | [MixMods](https://www.mixmods.com.br/2020/10/rundll32-exe-fix-gameux-dll-fix-corrigir-jogo-nao-abrindo/)
 
 Fixes issues that may prevent the game from launching properly on modern Windows systems.
 
