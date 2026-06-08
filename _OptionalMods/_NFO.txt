@@ -15,3 +15,4 @@ TriggerBot.cs // Auto-Shoot for Guns | F10
 
 Bind.ahk // I'm not sure what this does.
 SpaceBind.ahk // I don't think we need this when we have SprintHook.asi
+SAMPKeyBinder // Auto-input commands.
