@@ -16,7 +16,7 @@ Applies a smoothing effect to sky gradients, eliminating visible color banding a
 
 Enhances the rendering of small objects and ensures proper chrome reflections on newer vehicle models. Fully compatible with **SA:MP**.
 
-### 🛡️ _noDEP.asi
+### 🛡️ _noDEP.asi | [MixMods](https://www.mixmods.com.br/2015/03/nodep-desativar-dep/) / [GameModding](https://gamemodding.com/en/gta-san-andreas/others/87838-nodep-otklyuchit-dep.html)
 
 Some modifications such as **Tuning Mod**, **Real Traffic**, **Steering (Active Dashboard)**, and others may be blocked by Windows **DEP (Data Execution Prevention)**. This plugin automatically disables DEP for the game, preventing related crashes and compatibility issues.
 
