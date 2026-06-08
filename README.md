@@ -4,6 +4,10 @@ A collection of useful plugins, fixes, and enhancements for **GTA San Andreas Mu
 
 ## 🛠️ Included Fixes & Plugins
 
+### ⏱️ Framerate Vigilante
+
+Improves frame pacing and fixes issues caused by high FPS, resulting in smoother and more consistent gameplay in GTA San Andreas.
+
 ### 🌅 SkyGrad.asi
 
 Applies a smoothing effect to sky gradients, eliminating visible color banding and improving the overall appearance of the in-game sky.
