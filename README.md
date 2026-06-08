@@ -66,7 +66,6 @@ Fixes issues that may prevent the game from launching properly on modern Windows
 
 * ⏱️ **Framerate Vigilante** Even though fixes usually work well above 100 FPS (or more), this mod focuses on (and I recommend) up to 60 FPS (configurable in the .ini file, including Hz). Do not play above 60 FPS; the game will still have many bugs. 85 FPS might be okay, but it's not recommended.
 
-* Framerate Vigilante
 
 
 ## ⚠️ Note
