@@ -1,3 +1,5 @@
+_CLEO Pack (Old) | is the pack that I used ages ago. It is still working but it's old.
+
 - Optional CLEOs -
 
 A-AFK.cs // This script lets you run SA-MP in Windowed Mode (ALT+ENTER) / Minimized (ALT+TAB) without pausing the game. | /aafk
