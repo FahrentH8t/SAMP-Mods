@@ -8,3 +8,8 @@ ProAim.cs // Aimbot??? | F10
 SilentAim v9.0 // G.O.A.T | /salo
 TrollBoss.cs v3.0 // Commands for Troll | /tb.cmds
 TriggerBot.cs // Auto-Shoot for Guns | F10
+
+- Other Stuff -
+
+Bind.ahk // I'm not sure what this does.
+SpaceBind.ahk // I don't think we need this when we have SprintHook.asi
