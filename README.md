@@ -8,17 +8,13 @@ A collection of useful plugins, fixes, and enhancements for **GTA San Andreas Mu
 
 Improves frame pacing and fixes issues caused by high FPS, resulting in smoother and more consistent gameplay in **GTA San Andreas**. You also need this for true 60 FPS experience.
 
-### 🌅 SkyGrad.asi
+### 🌅 SkyGrad.asi | [MixMods](https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/)
 
 Applies a smoothing effect to sky gradients, eliminating visible color banding and improving the overall appearance of the in-game sky.
 
 ### 🎨 GFXHack v1.12
 
 Enhances the rendering of small objects and ensures proper chrome reflections on newer vehicle models. Fully compatible with **SA:MP**.
-
-### 💰 HudZeroFix.asi
-
-Removes unnecessary trailing zeros from the money display in the HUD for a cleaner interface.
 
 ### 🛡️ _noDEP.asi
 
@@ -27,6 +23,11 @@ Some modifications such as **Tuning Mod**, **Real Traffic**, **Steering (Active 
 ### 🚀 RunDLL32.exe Fix
 
 Fixes issues that may prevent the game from launching properly on modern Windows systems.
+
+### SprintHook.asi
+
+Have you noticed that if you hit the space bar many times, you run faster?
+This ASI plugin helps you run, or more precisely, it "hammers on the space bar" for you, you only need to hold down the space bar and you will run faster.
 
 ---
 
