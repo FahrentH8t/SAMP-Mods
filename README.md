@@ -4,7 +4,7 @@ A collection of useful plugins, fixes, and enhancements for **GTA San Andreas Mu
 
 ## 🛠️ Included Fixes & Plugins
 
-### ⏱️ Framerate Vigilante ([Link](https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/))
+### ⏱️ Framerate Vigilante | [MixMods](https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/)
 
 Improves frame pacing and fixes issues caused by high FPS, resulting in smoother and more consistent gameplay in **GTA San Andreas**. You also need this for true 60 FPS experience.
 
