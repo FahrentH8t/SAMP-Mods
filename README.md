@@ -82,6 +82,8 @@ This mod fixes the bug where the radar takes a long time to load when moving ver
 
 ## Optional Mods & Scripts
 
+> ⚠️ **Important:** _CLEO Pack (Old)_ | is the pack that I used ages ago. It is still working but it's old.
+
 * **A-AFK.cs** // This script lets you run SA-MP in Windowed Mode (ALT+ENTER) / Minimized (ALT+TAB) without pausing the game. | `/aafk`
 * **CAM.cs** // With this mod you can fly around with your Camera. | Type `'CAM'` to activate/deactivate it. | `WASD` = FORWARD/BACK/LEFT/RIGHT. | `SHIFT` = DOWN, `SPACE` = UP.
 * **NameCFlow.cs** // With this mod you can add your name above your HUD, and it keep appearing and flashing with rainbow color. | Auto-Active
@@ -90,14 +92,12 @@ This mod fixes the bug where the radar takes a long time to load when moving ver
 * **SilentAim v9.0** // G.O.A.T | `/salo`
 * **TrollBoss.cs v3.0** // Commands for Troll | `/tb.cmds`
 * **TriggerBot.cs** // Auto-Shoot for Guns | `F10`
-
-- Other Stuff -
-
 * **Bind.ahk** // I'm not sure what this does.
 * **SpaceBind.ahk** // I don't think we need this when we have SprintHook.asi
 * **SAMPKeyBinder** // Auto-input commands.
+* **mod_s0beit_sa** // Best cheat that we have. | [Github](https://github.com/BlastHackNet/mod_sa)
 
-* mod_s0beit_sa // Best cheat that we have. | [Github](https://github.com/BlastHackNet/mod_sa)
+
 
 ---
 ## ⚠️ Known Issues & Compatibility Notes
