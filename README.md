@@ -28,15 +28,18 @@ Fixes issues that may prevent the game from launching properly on modern Windows
 
 ## 📦 Included Components
 
-* 🔧 **CLEO Redux** v1.4.3
+* 🧰 **CLEO** v5.4.0
 * ⚡ **CLEO+** v1.2.0
-* 🔌 **Silent's ASI Loader** v1.3
-* 🧩 **SAMPFUNCS** v5.4.1 Final
-* 🪟 **III.VC.SA.WindowedMode** v2.1
-* 🛠️ **SilentPatch** v1.1 Build 33
+* 🔧 **CLEO Redux** v1.4.3
 * 🎨 **GFXHack** v1.12
-* 📂 **ModLoader** v0.3.9
 * 📋 **CrashInfo** v1.2.1
+* 📂 **ModLoader** v0.3.9
+* 🔌 **Silent's ASI Loader** v1.3
+* 🛠️ **SilentPatch** v1.1 Build 33
+* 🧩 **SAMPFUNCS** v5.4.1 Final
+* 👁️ **First Person Mod** v3.0 Fix
+* 🪟 **III.VC.SA.WindowedMode** v2.1
+
 
 ---
 
@@ -50,6 +53,13 @@ Fixes issues that may prevent the game from launching properly on modern Windows
 * 💎 Various quality-of-life improvements
 
 ---
+
+## ⚠️ Known Issues & Compatibility Notes
+
+* 👁️ **First Person Mod v3.0 Fix** may conflict with **GInput**, which can lead to input-related issues or unexpected behavior.
+
+* 🪟 **III.VC.SA.WindowedMode v2.1** may cause crashes while playing **SA:MP**. If you experience stability issues, consider disabling or removing this plugin.
+
 
 ## ⚠️ Note
 
