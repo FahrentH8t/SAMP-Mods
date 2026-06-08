@@ -1,0 +1,4 @@
+Menu background in HD: Leonid Omsk
+
+Menu radar replaces the same file, so we added the HD menu background too.
+It's optional and not important.
