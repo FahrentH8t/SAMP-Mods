@@ -24,7 +24,7 @@ Some modifications such as **Tuning Mod**, **Real Traffic**, **Steering (Active 
 
 Fixes issues that may prevent the game from launching properly on modern Windows systems.
 
-### SprintHook.asi | [GameModding](https://gamemodding.com/en/gta-san-andreas/others/87173-sprint-hook.html)
+### 🏃‍♂️ SprintHook.asi | [GameModding](https://gamemodding.com/en/gta-san-andreas/others/87173-sprint-hook.html)
 
 Have you noticed that if you hit the space bar many times, you run faster?
 This ASI plugin helps you run, or more precisely, it "hammers on the space bar" for you, you only need to hold down the space bar and you will run faster.
