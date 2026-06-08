@@ -29,7 +29,7 @@ Fixes issues that may prevent the game from launching properly on modern Windows
 Have you noticed that if you hit the space bar many times, you run faster?
 This ASI plugin helps you run, or more precisely, it "hammers on the space bar" for you, you only need to hold down the space bar and you will run faster.
 
-### Full Stream Radar | [MixMods](https://www.mixmods.com.br/2015/01/full-stream-radar-fix-radar-sumindo/)
+### 🗺️ FullStreamRadar | [MixMods](https://www.mixmods.com.br/2015/01/full-stream-radar-fix-radar-sumindo/)
 
 This mod fixes the bug where the radar takes a long time to load when moving very fast, flying, etc. This is a problem that occurs mainly in HD radar map mods, where it increases disk usage to load textures.
 
