@@ -79,6 +79,20 @@ This mod fixes the bug where the radar takes a long time to load when moving ver
 * **tawerDraw.cs** // Funny calls when you hit someone | Auto-Active
 
 ---
+
+## Optional CLEO Scripts
+
+* **A-AFK.cs** // This script lets you run SA-MP in Windowed Mode (ALT+ENTER) / Minimized (ALT+TAB) without pausing the game. | `/aafk`
+* **CAM.cs** // With this mod you can fly around with your Camera. | Type `'CAM'` to activate/deactivate it. | `WASD` = FORWARD/BACK/LEFT/RIGHT. | `SHIFT` = DOWN, `SPACE` = UP.
+* **NameCFlow.cs** // With this mod you can add your name above your HUD, and it keep appearing and flashing with rainbow color. | Auto-Active
+* **NameTag.cs** // WallHack + Name of the Players | `ALT+F3`
+* **ProAim.cs** // Aimbot??? | `F10`
+* **SilentAim v9.0** // G.O.A.T | `/salo`
+* **TrollBoss.cs v3.0** // Commands for Troll | `/tb.cmds`
+* **TriggerBot.cs** // Auto-Shoot for Guns | `F10`
+
+
+---
 ## ⚠️ Known Issues & Compatibility Notes
 
 * 👁️ **First Person Mod v3.0 Fix** may conflict with **GInput**, which can lead to input-related issues or unexpected behavior.
