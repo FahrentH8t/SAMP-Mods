@@ -2,13 +2,24 @@
 
 A collection of useful plugins, fixes, and enhancements for **GTA San Andreas Multiplayer (SA:MP)** to improve stability, compatibility, and overall gameplay experience.
 
+---
+
+## ✨ Features
+
+* ✅ Improved game stability and compatibility
+* 🎮 Enhanced SA:MP gameplay experience
+* 🎨 Better graphics and rendering fixes
+* 🔧 Increased compatibility with mods
+* 🚫 Reduced crashes and startup issues
+* 💎 Various quality-of-life improvements
+
 ## 🛠️ Included Fixes & Plugins
 
 ### ⏱️ Framerate Vigilante | [MixMods](https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/)
 
 Improves frame pacing and fixes issues caused by high FPS, resulting in smoother and more consistent gameplay in **GTA San Andreas**. You also need this for true 60 FPS experience.
 
-### 🌅 SkyGrad.asi | [MixMods](https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/)
+### 🌅 SkyGrad | [MixMods](https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/)
 
 Applies a smoothing effect to sky gradients, eliminating visible color banding and improving the overall appearance of the in-game sky.
 
@@ -16,15 +27,15 @@ Applies a smoothing effect to sky gradients, eliminating visible color banding a
 
 Enhances the rendering of small objects and ensures proper chrome reflections on newer vehicle models. Fully compatible with **SA:MP**.
 
-### 🛡️ _noDEP.asi | [MixMods](https://www.mixmods.com.br/2015/03/nodep-desativar-dep/) / [GameModding](https://gamemodding.com/en/gta-san-andreas/others/87838-nodep-otklyuchit-dep.html)
+### 🛡️ _noDEP | [MixMods](https://www.mixmods.com.br/2015/03/nodep-desativar-dep/) / [GameModding](https://gamemodding.com/en/gta-san-andreas/others/87838-nodep-otklyuchit-dep.html)
 
 Some modifications such as **Tuning Mod**, **Real Traffic**, **Steering (Active Dashboard)**, and others may be blocked by Windows **DEP (Data Execution Prevention)**. This plugin automatically disables DEP for the game, preventing related crashes and compatibility issues.
 
-### 🚀 RunDLL32.exe Fix | [MixMods](https://www.mixmods.com.br/2020/10/rundll32-exe-fix-gameux-dll-fix-corrigir-jogo-nao-abrindo/)
+### 🚀 RunDLL32 Fix | [MixMods](https://www.mixmods.com.br/2020/10/rundll32-exe-fix-gameux-dll-fix-corrigir-jogo-nao-abrindo/)
 
 Fixes issues that may prevent the game from launching properly on modern Windows systems.
 
-### 🏃‍♂️ SprintHook.asi | [GameModding](https://gamemodding.com/en/gta-san-andreas/others/87173-sprint-hook.html)
+### 🏃‍♂️ SprintHook | [GameModding](https://gamemodding.com/en/gta-san-andreas/others/87173-sprint-hook.html)
 
 Have you noticed that if you hit the space bar many times, you run faster?
 This ASI plugin helps you run, or more precisely, it "hammers on the space bar" for you, you only need to hold down the space bar and you will run faster.
@@ -37,9 +48,9 @@ This mod fixes the bug where the radar takes a long time to load when moving ver
 
 ## 📦 Included Components
 
-* 🧰 **CLEO** v5.4.0
-* ⚡ **CLEO+** v1.2.0
-* 🔧 **CLEO Redux** v1.4.3
+* 🧰 **CLEO** v5.4.0 [cleo.li](https://cleo.li/)
+* ⚡ **CLEO+** v1.2.0 [MixMods](https://www.mixmods.com.br/2023/10/cleoplus/) / [Github](https://github.com/JuniorDjjr/CLEOPlus)
+* 🔧 **CLEO Redux** v1.4.3 [re.cleo.li](https://re.cleo.li/) / [Github](https://github.com/cleolibrary/CLEO-Redux)
 * 🎨 **GFXHack** v1.12
 * 📋 **CrashInfo** v1.2.1
 * 📂 **ModLoader** v0.3.9
@@ -48,19 +59,6 @@ This mod fixes the bug where the radar takes a long time to load when moving ver
 * 🧩 **SAMPFUNCS** v5.4.1 Final
 * 👁️ **First Person Mod** v3.0 Fix
 * 🪟 **III.VC.SA.WindowedMode** v2.1
-
-
----
-
-## ✨ Features
-
-* ✅ Improved game stability and compatibility
-* 🎮 Enhanced SA:MP gameplay experience
-* 🎨 Better graphics and rendering fixes
-* 🔧 Increased compatibility with mods
-* 🚫 Reduced crashes and startup issues
-* 💎 Various quality-of-life improvements
-
 ---
 
 ## ⚠️ Known Issues & Compatibility Notes
