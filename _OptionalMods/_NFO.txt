@@ -1,0 +1,10 @@
+- Optional CLEOs -
+
+A-AFK.cs // This script lets you run SA-MP in Windowed Mode (ALT+ENTER) / Minimized (ALT+TAB) without pausing the game. | /aafk
+CAM.cs // With this mod you can fly around with your Camera. | Type 'CAM' to activate/deactivate it. | WASD = FORWARD/BACK/LEFT/RIGHT. | SHIFT = DOWN, SPACE = UP.
+NameCFlow.cs // With this mod you can add your name above your HUD, and it keep appearing and flashing with rainbow color. | Auto-Active
+NameTag.cs // WallHack + Name of the Players | ALT+F3
+ProAim.cs // Aimbot??? | F10
+SilentAim v9.0 // G.O.A.T | /salo
+TrollBoss.cs v3.0 // Commands for Troll | /tb.cmds
+TriggerBot.cs // Auto-Shoot for Guns | F10
