@@ -61,6 +61,19 @@ This mod fixes the bug where the radar takes a long time to load when moving ver
 * 🪟 **III.VC.SA.WindowedMode** v2.1
 ---
 
+Ammo.cs // Ammo count for guns in-game. | Auto-Active
+Anti-Drugs.cs // The CLEO script removes the effect from drugs and shaking the screen. | Auto-Active
+AutoDrive.cs // With this mod you can enable auto-pilot in any vehicle. To choose a destination, add a red marker to the map. | "Z" for Activate. | To change the speed of the vehicle, hold "Spacebar" and use up/down arrows.
+ColorHUD.cs // Change color of HUD. | /colorhud
+DigiInfo.cs // Custom digital bars which tell your accurate Health/Armour/Sprint and vehicle points. | Auto-Active | Incompatible with WideScreenFix
+HitSound.cs // This mod will help you if you hit the enemy or not. | Auto-Active
+PlayerFinder.cs // Shows the location of the player. | /cfind [ID] - /stopfind
+RadarZoom.cs v1.6 // Minimap Zoom-out | Press "R" for Activate.
+Reconnect.cs // Allows to Reconnect in SA-MP. | RSHIFT + 0
+SelfPhoto.cs // SelfieMod for GTA SA | Press "End" for Activate. Disable with "F" or "Enter" | Press "F7" to disable HUD then Press "F8" to take Screenshot.
+statDisplay.cs // Mod which displays location, ping and fps. | /sdhelp
+tawerDraw.cs // Funny calls when you hit someone | Auto-Active
+---
 ## ⚠️ Known Issues & Compatibility Notes
 
 * 👁️ **First Person Mod v3.0 Fix** may conflict with **GInput**, which can lead to input-related issues or unexpected behavior.
