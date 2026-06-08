@@ -54,6 +54,13 @@ Fixes issues that may prevent the game from launching properly on modern Windows
 
 ---
 
+## ⚠️ Known Issues & Compatibility Notes
+
+* 👁️ **First Person Mod v3.0 Fix** may conflict with **GInput**, which can lead to input-related issues or unexpected behavior.
+
+* 🪟 **III.VC.SA.WindowedMode v2.1** may cause crashes while playing **SA:MP**. If you experience stability issues, consider disabling or removing this plugin.
+
+
 ## ⚠️ Note
 
 > These files are intended for **GTA San Andreas Multiplayer (SA:MP)** and may not be compatible with all single-player modifications.
