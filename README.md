@@ -30,13 +30,13 @@ Fixes issues that may prevent the game from launching properly on modern Windows
 
 * 🧰 **CLEO** v5.4.0
 * ⚡ **CLEO+** v1.2.0
+* 🔧 **CLEO Redux** v1.4.3
+* 🎨 **GFXHack** v1.12
 * 📋 **CrashInfo** v1.2.1
 * 📂 **ModLoader** v0.3.9
-* 🎨 **GFXHack** v1.12
 * 🔌 **Silent's ASI Loader** v1.3
 * 🛠️ **SilentPatch** v1.1 Build 33
 * 🧩 **SAMPFUNCS** v5.4.1 Final
-* 🔧 **CLEO Redux** v1.4.3
 * 👁️ **First Person Mod** v3.0 Fix
 * 🪟 **III.VC.SA.WindowedMode** v2.1
 
