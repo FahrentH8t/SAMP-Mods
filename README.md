@@ -59,7 +59,10 @@ This mod fixes the bug where the radar takes a long time to load when moving ver
 * 🧩 **SAMPFUNCS** v5.4.1 Final
 * 👁️ **First Person Mod** v3.0 Fix
 * 🪟 **III.VC.SA.WindowedMode** v2.1
+  
 ---
+
+## Included Mods
 
 * **Ammo.cs** // Ammo count for guns in-game. | Auto-Active
 * **Anti-Drugs.cs** // The CLEO script removes the effect from drugs and shaking the screen. | Auto-Active
@@ -74,7 +77,6 @@ This mod fixes the bug where the radar takes a long time to load when moving ver
 * **statDisplay.cs** // Mod which displays location, ping and fps. | `/sdhelp`
 * **tawerDraw.cs** // Funny calls when you hit someone | Auto-Active
 
-
 ---
 ## ⚠️ Known Issues & Compatibility Notes
 
@@ -83,8 +85,6 @@ This mod fixes the bug where the radar takes a long time to load when moving ver
 * 🪟 **III.VC.SA.WindowedMode v2.1** may cause crashes while playing **SA:MP**. If you experience stability issues, consider disabling or removing this plugin.
 
 * ⏱️ **Framerate Vigilante** fixes usually work well above 100 FPS (or more), this mod focuses on (and I recommend) up to 60 FPS (configurable in the .ini file, including Hz). Do not play above 60 FPS; the game will still have many bugs. 85 FPS might be okay, but it's not recommended.
-
-
 
 ## ⚠️ Note
 
