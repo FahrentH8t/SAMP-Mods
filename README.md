@@ -12,7 +12,7 @@ Improves frame pacing and fixes issues caused by high FPS, resulting in smoother
 
 Applies a smoothing effect to sky gradients, eliminating visible color banding and improving the overall appearance of the in-game sky.
 
-### 🎨 GFXHack v1.12
+### 🎨 GFXHack v1.12 | [GameModding](https://gamemodding.com/en/gta-san-andreas/others/78094-gfxhack-112.html)
 
 Enhances the rendering of small objects and ensures proper chrome reflections on newer vehicle models. Fully compatible with **SA:MP**.
 
