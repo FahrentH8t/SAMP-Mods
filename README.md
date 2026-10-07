@@ -58,7 +58,7 @@ This mod fixes the bug where the radar takes a long time to load when moving ver
 * 🛠️ **SilentPatch** v1.1 Build 34.1
 * 🧩 **SAMPFUNCS** v5.4.1 Final
 * 👁️ **First Person Mod** v3.0 Fix
-* 🪟 **III.VC.SA.WindowedMode** v2.1
+* 🪟 **III.VC.SA.WindowedMode** v2.2
 * 🌙 MoonLoader v.027.0-preview3 + MoonAdditions + Moon ImGui 1.1.5
   
 ---
