@@ -53,7 +53,7 @@ This mod fixes the bug where the radar takes a long time to load when moving ver
 * 🔧 **CLEO Redux** v1.4.3 [re.cleo.li](https://re.cleo.li/) / [Github](https://github.com/cleolibrary/CLEO-Redux)
 * 🎨 **GFXHack** v1.12
 * 📋 **CrashInfo** v1.2.1
-* 📂 **ModLoader** v0.3.9
+* 📂 **ModLoader** v0.3.10
 * 🔌 **Silent's ASI Loader** v1.3
 * 🛠️ **SilentPatch** v1.1 Build 34.1
 * 🧩 **SAMPFUNCS** v5.4.1 Final
