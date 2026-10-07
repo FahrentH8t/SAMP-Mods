@@ -55,7 +55,7 @@ This mod fixes the bug where the radar takes a long time to load when moving ver
 * 📋 **CrashInfo** v1.2.1
 * 📂 **ModLoader** v0.3.9
 * 🔌 **Silent's ASI Loader** v1.3
-* 🛠️ **SilentPatch** v1.1 Build 33
+* 🛠️ **SilentPatch** v1.1 Build 34.1
 * 🧩 **SAMPFUNCS** v5.4.1 Final
 * 👁️ **First Person Mod** v3.0 Fix
 * 🪟 **III.VC.SA.WindowedMode** v2.1
