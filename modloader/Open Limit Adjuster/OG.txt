@@ -1,5 +1,0 @@
-Peds = 140
-PedIntelligence = 140
-Vehicles = 110
-#Task = unlimited
-#Event = unlimited
