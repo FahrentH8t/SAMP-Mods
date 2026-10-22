@@ -53,12 +53,13 @@ This mod fixes the bug where the radar takes a long time to load when moving ver
 * 🔧 **CLEO Redux** v1.5.1 [re.cleo.li](https://re.cleo.li/) / [Github](https://github.com/cleolibrary/CLEO-Redux)
 * 🎨 **GFXHack** v1.12
 * 📋 **CrashInfo** v1.2.1
-* 📂 **ModLoader** v0.3.10
-* 🔌 **Silent's ASI Loader** v1.3
-* 🛠️ **SilentPatch** v1.1 Build 34.1
+* 📂 **ModLoader** v0.3.10 [Github](https://github.com/thelink2012/modloader/releases)
+* 🔌 **Silent's ASI Loader** v1.5 [Github](https://github.com/GTAmodding/ASI-Loader/releases)
+* 🛠️ **SilentPatch** v1.1 Build 34.1 [Github](https://github.com/CookiePLMonster/SilentPatch/releases)
+* ⚙️ **OpenLimitAdjuster** v1.7 [MixMods](https://www.mixmods.com.br/2022/10/open-limit-adjuster/)
 * 🧩 **SAMPFUNCS** v5.4.1 Final
 * 👁️ **First Person Mod** v3.0 Fix
-* 🪟 **III.VC.SA.WindowedMode** v2.2
+* 🪟 **III.VC.SA.WindowedMode** v3.0 [Github](https://github.com/ThirteenAG/III.VC.SA.WindowedMode/releases)
 * 🌙 MoonLoader v.027.0-preview3 + MoonAdditions + Moon ImGui 1.1.5
   
 ---
