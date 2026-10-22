@@ -59,6 +59,7 @@ This mod fixes the bug where the radar takes a long time to load when moving ver
 * ⚙️ **OpenLimitAdjuster** v1.7 [MixMods](https://www.mixmods.com.br/2022/10/open-limit-adjuster/)
 * 🧩 **SAMPFUNCS** v5.4.1 Final
 * 👁️ **First Person Mod** v3.0 Fix
+* 🚀 **Proper Streaming** v1.0.1 [MixMods](https://www.mixmods.com.br/2026/10/proper-streaming/)
 * 🪟 **III.VC.SA.WindowedMode** v3.0 [Github](https://github.com/ThirteenAG/III.VC.SA.WindowedMode/releases)
 * 🌙 MoonLoader v.027.0-preview3 + MoonAdditions + Moon ImGui 1.1.5
   
